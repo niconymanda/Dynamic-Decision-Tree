@@ -9,3 +9,6 @@ run it as an executable is python main.py.
 to split them at best to build a decision Tree. 
 
 **Tree.py** This file defines a class meant to represent a decision tree.
+
+**evaluation.py** This file defines functions that are useful for evaluating the
+results of a classification algorithm.
